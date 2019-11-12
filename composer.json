@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\Dao\\": "app/dao",
+      "App\\Entity\\": "app/entity",
+      "App\\Helper\\": "app/helper",
+      "Bin\\": "bin/"
+    }
+  }
+}

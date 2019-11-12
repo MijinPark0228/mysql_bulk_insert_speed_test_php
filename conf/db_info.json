@@ -1,0 +1,10 @@
+{
+  "my_sql_charset": "UTF-8",
+  "db_date_format": "Y\/m\/d H:i:s",
+  "db_charset": "EUC-JP",
+  "db_name": "item",
+  "table_name":"item",
+  "db_host": "127.0.0.1",
+  "db_user": "admin",
+  "db_password": ""
+}

@@ -1,0 +1,15 @@
+{
+  "store_id": 38,
+  "item_no": "test___UNIQUE_VALUE__",
+  "open": "Y",
+  "item_name": "item_name___UNIQUE_VALUE__",
+  "feed_category": "E02",
+  "master_category_id": "1",
+  "sub_category": "2",
+  "price": "1000",
+  "image_id": 1,
+  "nontax_flag": 0,
+  "set_stock_at": "2019\/11\/11 10:23:33",
+  "tax_rate": 0,
+  "set_date": "__NOW__"
+}
